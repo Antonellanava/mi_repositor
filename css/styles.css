@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0;
+}
+.link-propio{
+    color: black;
+}
+.link-propio:hover{
+    color: #A66CFF;
+}
+.nav-propia{
+    background-color: white;
+}
+.nombre-propio{
+    font-size: 36px;
+}
+.card-propio{
+    background-color: #B1E1FF;
+}
+
+{
+    
+}
