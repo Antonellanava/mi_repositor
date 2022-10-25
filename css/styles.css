@@ -2,6 +2,10 @@
     margin: 0px;
     padding: 0;
 }
+.img-propia{
+    vertical-align: middle;
+    border-style: none;
+}
 .link-propio{
     color: black;
 }
@@ -21,5 +25,8 @@
     text-align: center;
 }
 .segundoparrafo{
+    text-align: center;
+}
+main h1{
     text-align: center;
 }
