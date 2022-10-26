@@ -14,19 +14,65 @@
 }
 .nav-propia{
     background-color: white;
+    background: #fff;
+    box-shadow: 0px 0px 30px rgb(127 137 161 / 30%);
  }
 .nombre-propio{
     font-size: 36px;
 }
-.card-propio{
-    background-color: #B1E1FF;
-}
 .primerparrafo{
     text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 150%;
 }
 .segundoparrafo{
     text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 150%;
 }
 main h1{
     text-align: center;
 }
+.Equipo{
+    background-color: #AFB4FF;
+    padding: 8px;
+    margin: 0.2%;
+    margin-top: 20px;
+    margin-bottom: 0.2rem;
+}
+.mi-carrusel{
+    width: 100%;
+    display: block;
+  padding: 20%;
+  margin: -26%;
+  margin-left: 0.4%;
+}
+.mi-main{
+    padding: 10%;
+}
+h2{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+   font-size: 300%;
+}
+.img-propia{
+    height: auto;
+    margin: 07%;
+    padding: 0.2%;
+    margin-left: -0.0%;
+    margin-right: -16%;
+ }
+ .mi-div{
+    margin: 07%;
+ }
+.mi-card{
+    background-color: #AFB4FF;
+}
+h1{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+   font-size: 300%;
+   background-color: #AFB4FF;
+    padding: 8px;
+    
+ }
