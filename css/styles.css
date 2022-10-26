@@ -74,5 +74,9 @@ h1{
    font-size: 300%;
    background-color: #AFB4FF;
     padding: 8px;
-    
  }
+h1{
+    animation-duration: 2s;
+   animation-name: aparecer;
+   animation-iteration-count: infinite;
+}
