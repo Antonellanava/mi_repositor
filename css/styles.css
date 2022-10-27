@@ -82,5 +82,9 @@ h1{
   transform: scale(1.5);
 }
 .mi-form{
+    background-color: #AFB4FF ;
     margin: 08%;
+}
+.miboton{
+    background-color: #000000;
 }
