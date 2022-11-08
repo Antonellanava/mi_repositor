@@ -24,14 +24,17 @@
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     font-size: 150%;
+    margin: 10%;
 }
 .segundoparrafo{
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     font-size: 150%;
+    margin: 10%;
 }
 main h1{
     text-align: center;
+    margin: 10%;
 }
 .Equipo{
     background-color: #AFB4FF;
@@ -39,21 +42,6 @@ main h1{
     margin: 0.2%;
     margin-top: 20px;
     margin-bottom: 0.2rem;
-}
-.mi-carrusel{
-    width: 100%;
-    display: block;
-  padding: 20%;
-  margin: -26%;
-  margin-left: 0.4%;
-}
-.mi-main{
-    padding: 10%;
-}
-h2{
-    text-align: center;
-    font-family: 'Montserrat', sans-serif;
-   font-size: 300%;
 }
 .img-propia{
     height: auto;
@@ -82,9 +70,17 @@ h1{
   transform: scale(1.5);
 }
 .mi-form{
-    background-color: #AFB4FF ;
-    margin: 08%;
+    background-color: #AFB4FF;
+    margin: 4%;
 }
 .miboton{
     background-color: #000000;
+}
+h2{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+   font-size: 300%;
+   background-color: #AFB4FF;
+    padding: 8px;
+    margin: 10%;
 }
