@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0;
+}
+.img-propia{
+    vertical-align: middle;
+    border-style: none;
+}
+.link-propio{
+    color: black;
+}
+.link-propio:hover{
+    color: #A66CFF;
+}
+.nav-propia{
+    background-color: white;
+    background: #fff;
+    box-shadow: 0px 0px 30px rgb(127 137 161 / 30%);
+ }
+.nombre-propio{
+    font-size: 36px;
+}
+.primerparrafo{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 150%;
+    margin: 10%;
+}
+.segundoparrafo{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 150%;
+    margin: 10%;
+}
+main h1{
+    text-align: center;
+    margin: 10%
+ }
