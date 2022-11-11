@@ -34,5 +34,56 @@
 }
 main h1{
     text-align: center;
-    margin: 10%
+    margin: 10%;
+}
+.Equipo{
+    background-color: #AFB4FF;
+    padding: 8px;
+    margin: 0.2%;
+    margin-top: 20px;
+    margin-bottom: 0.2rem;
+}
+.img-propia{
+    height: auto;
+    margin: 07%;
+    padding: 0.2%;
+    margin-left: -0.0%;
+    margin-right: -16%;
  }
+ .mi-div{
+    margin: 07%;
+ }
+.mi-card{
+    background-color: #AFB4FF;
+}
+h1{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+   font-size: 300%;
+   background-color: #AFB4FF;
+    padding: 8px;
+ }
+.div-animacion{
+    transition: all 0.5s;
+}
+ .div-animacion:hover{
+  transform: scale(1.5);
+}
+.mi-form{
+    background-color: #AFB4FF;
+    margin: 4%;
+}
+.miboton{
+    background-color: #000000;
+}
+h2{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+   font-size: 300%;
+   background-color: #AFB4FF;
+    padding: 8px;
+    margin: 10%;
+}
+.mi-text{
+    font-family: 'Montserrat', sans-serif;
+}
